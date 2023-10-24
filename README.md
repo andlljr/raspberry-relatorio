@@ -31,4 +31,4 @@ No terminal irá imprimir a mensagem em inglês "Hello":
 
 No terminal irá imprimir a mensagem em japonês "Konnichiwa":
 
-![Clicando no botão laranja e aparecendo mensagem konnichiwa no wokwi](img/simulador-3.png)
+![Clicando no botão laranja e aparecendo mensagem konnichiwa no wokwi](img/simulador-4.png)
